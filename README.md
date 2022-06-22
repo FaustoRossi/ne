@@ -6,7 +6,7 @@ Basic Netflix Clone, using IMDB Api https://imdb-api.com/api/. I opted for Next 
 
 For icons I integrated React-icons library, and for the loader components, react-loader-spinner.
 
-As for the Api calls, I used Axios, which requests for TV or Movie Titles.
+As for the Api calls, I used Axios, which makes requests to TV or Movie Titles.
 
 I tried to keep it simple, to not over do it since those were the instructions, and to recreate as much as I could from the given picture.
 
