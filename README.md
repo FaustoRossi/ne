@@ -1,6 +1,6 @@
 
 
-## Abstract Challenge Netflix-Clone
+##  Netflix-Clone Challenge for  Abstract Solutions who Ghosted me.
 
 Basic Netflix Clone, using IMDB Api https://imdb-api.com/api/. I opted for Next Js, and Tailwind for styling, fully responsive which means I went Mobile First.
 
